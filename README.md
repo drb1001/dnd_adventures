@@ -21,6 +21,6 @@ All other files should be kept secret from players at the start of the game.
 |     | Title | Player Level | # Players | Approx Length | Quick link | Status |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Ashes of the Emberkeep | level 3 | 3-5 | 4-6 hours |  | Draft | 
-| 2 | The Shards of Dusk | level 8 | 5-6 | 10-12 hours |  | Draft |
-| 3 | The Siege of Blackthorn Hold | level 10 | 4-5 | 10-12 hours |  | Draft |
+| 2 | The Shards of Dusk | level 10 | 5-6 | 10-12 hours |  | Work in progress |
+| 3 | The Siege of Blackthorn Hold | level 10 | 4-5 | 10-12 hours |  | Work in progress |
 | 4 |  |  |  |  |  |

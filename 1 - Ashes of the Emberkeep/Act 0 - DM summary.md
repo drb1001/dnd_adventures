@@ -1,6 +1,6 @@
 # Ashes of the Emberkeep
 
-### DM Summary
+### Act 0 - DM Summary
 
 The players arrive in the frontier town of Redhaven, built in the shadow of the ruined Emberkeep Fortress, which was destroyed in a mysterious fire decades ago. 
 
