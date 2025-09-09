@@ -1,4 +1,4 @@
-Can you create an atmospheric drawing to use as the cover image for a book. 
+Can you create an image to use as the cover image for a book. 
 The style should be []
-Here are some descriptions to help set the scene: 
+Here is a description you can use as inspiration - you don't need to use all elements of the description in the image, just use it as a guide:
 []
