@@ -1,8 +1,7 @@
 # Ashes of the Emberkeep
 
-This adventure should last 4-6 hours and be for 3-5 players of level 3.
+### DM Summary
 
-### Summary
 The players arrive in the frontier town of Redhaven, built in the shadow of the ruined Emberkeep Fortress, which was destroyed in a mysterious fire decades ago. 
 
 Recently, miners in the surrounding hills have uncovered a forgotten tunnel leading into the keep’s undercrypts. Strange fires and disappearances plague the town, hinting that the Emberkeep’s destruction was no accident: a sealed elemental rift within its depths has begun to flare open again. 
