@@ -22,7 +22,7 @@ The adventures have been edited by humans, but 90% of the content is AI generate
 
 
 |     | Title | Player Level | # Players | Approx Length | Summary link | DM link | Status |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Ashes of the Emberkeep | level 3 | 3-5 | 4-6 hours | [🔗](/dnd_adventures/1%20-%20Ashes%20of%20the%20Emberkeep/) | [🔗](/dnd_adventures/1%20-%20Ashes%20of%20the%20Emberkeep/Act%200%20-%20DM%20summary) | Draft | 
 | 2 | The Shards of Dusk | level 10 | 5-6 | 10-12 hours |  | | Work in progress |
 | 3 | The Siege of Blackthorn Hold | level 10 | 4-5 | 10-12 hours |  | | Work in progress |
